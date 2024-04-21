@@ -1,23 +1,24 @@
 {
-  "name": "shiki-component",
-  "version": "1.0.0",
-  "description": "Web Component for Syntax Highlighting Code using Shiki",
-  "main": "shiki-component.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JRJurman/shiki-component.git"
-  },
-  "author": {
+	"name": "shiki-component",
+	"version": "1.0.0",
+	"description": "Web Component for Syntax Highlighting Code using Shiki",
+	"main": "shiki-component.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "serve . -p 3000"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JRJurman/shiki-component.git"
+	},
+	"author": {
 		"name": "Jesse Jurman",
 		"email": "j.r.jurman@gmail.com",
 		"url": "https://jrjurman.com"
 	},
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/JRJurman/shiki-component/issues"
-  },
-  "homepage": "https://github.com/JRJurman/shiki-component#readme"
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/JRJurman/shiki-component/issues"
+	},
+	"homepage": "https://github.com/JRJurman/shiki-component#readme"
 }
