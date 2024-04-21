@@ -1,6 +1,6 @@
 {
 	"name": "shiki-component",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Web Component for Syntax Highlighting Code using Shiki",
 	"main": "shiki-component.js",
 	"scripts": {
