@@ -18,9 +18,9 @@ Live Example: https://codepen.io/JRJurman/pen/xxeQQxa
 
 <shiki-component lang="js" theme="rose-pine">
   <template>
-		// super simple to add to any project
-		const myLabel = 'New Project Here!'
-	</template>
+    // super simple to add to any project
+    const myLabel = 'New Project Here!'
+  </template>
 </shiki-component>
 ```
 
