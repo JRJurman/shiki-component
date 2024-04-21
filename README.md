@@ -4,7 +4,7 @@ Web Component for showing code with syntax highlighting, using [Shiki](https://s
 
 Live Example: https://codepen.io/JRJurman/pen/xxeQQxa
 
-<img src="./preview.png">
+<img src="./preview.png" alt="Two code snippets that have different themes and syntax highlighting. The first one is HTML code, with comments and a header tag code; the second is javascript with a comment and setting a new variable.">
 
 ```html
 <script type="module" src="https://unpkg.com/shiki-component@1"></script>
