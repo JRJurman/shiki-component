@@ -1,4 +1,9 @@
-<script type="module" src="https://unpkg.com/shiki-component@1"></script>
+<script type="module" src="./shiki-component.js"></script>
+<style>
+:root {
+  color-scheme: light dark;
+}
+</style>
 
 <shiki-component lang="html" theme="night-owl">
   <template>
@@ -11,5 +16,11 @@
   <template>
     // super simple to add to any project
     const myLabel = 'New Project Here!'
+  </template>
+</shiki-component>
+
+<shiki-component lang="json" light-theme="light-plus" dark-theme="dark-plus">
+  <template>
+    { supports: ['light-theme', 'dark-theme'] }
   </template>
 </shiki-component>

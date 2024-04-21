@@ -41,3 +41,12 @@ https://shiki.style/languages
 Attribute for setting the theme for the syntax highlighting. You can see all themes here: https://shiki.style/themes
 
 </dd>
+
+<dt><code>*-theme</code></dt>
+<dd>
+
+Attribute for setting multiple themes for the syntax highlighting. You can learn about setting multiple themes here: https://shiki.style/guide/dual-themes
+
+</dd>
+
+</dl>
