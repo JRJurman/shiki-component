@@ -2,6 +2,8 @@
 
 Web Component for showing code with syntax highlighting, using [Shiki](https://shiki.style/).
 
+Live Example: https://codepen.io/JRJurman/pen/xxeQQxa
+
 ```html
 <script type="module" src="https://unpkg.com/shiki-component@1"></script>
 
